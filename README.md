@@ -5,19 +5,14 @@
 
 ## Table of contents
 * [General Info](#general-info)
-* [Video Demo](#video-demo)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General Info
 The purpose of the project is to recreate Facebook as closely as possible using modern technologies. The motivation behind the project was the gain of experience and improvement of skillset using the MERN stack.
-
-## Video Demo
-This link directs you to the recorded demo of the application: https://youtu.be/G-HTQDmvhG4
 
 ## Technologies
 * MongoDB - version 4.4
@@ -39,15 +34,10 @@ List of features ready and TODOs for future development
 * Updates the DB in real time
 * Completed Frontend styling and design
 
-To-do list:
-* Navigation Links functionality
-* Post interaction functionality
 
-## Status
-The project may be continued at a later date. Since the purpose of the project was practice using MERN, all of the original Facebook functionality may not be added.
 
-## Inspiration
-This project was inspired by and based on the work of [@drakosi99](https://github.com/drakosi99). Great appreciation for his tutorials.
+
+
 
 ## Contact
 Created by sambara vasanthkiran.
